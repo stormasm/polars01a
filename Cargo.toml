@@ -1,0 +1,6 @@
+[workspace]
+members = [
+  "crates/polars-arrow",
+  "crates/polars-core",
+  "crates/polars-utils",
+]
